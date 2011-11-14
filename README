@@ -1,17 +1,13 @@
 How to fork the git
 
-kolla lŠnk -> http://help.github.com/fork-a-repo/
+kolla lï¿½nk -> http://help.github.com/fork-a-repo/
 
-Hur man utfšr en pull request
+Hur man utfï¿½r en pull request
 
-das lŠnk -> http://help.github.com/send-pull-requests/
+das lï¿½nk -> http://help.github.com/send-pull-requests/
 
-<<<<<<< HEAD
 uppdatera det forkade projektet
 
 git fetch upstream
 git merge upstream/master
 
-=======
-HEJ
->>>>>>> 35e2cbfbaff8d2c9dd05dee6406748729e99cd5b
