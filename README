@@ -22,3 +22,5 @@ git add -A
 git commit -m 'ditt meddelande' <- utfÃ¶r commit, -m = commit meddelande
 git push, skickar upp commiten till ditt forkade projekt.
 >>>>>>> fa9ea666729526a1d0683fb9d93bee67109cfe87
+
+Marta editerar för att kolla om hon har fått det att fungera???
