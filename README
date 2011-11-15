@@ -1,15 +1,19 @@
 How to fork the git
+-------------------
+kolla lÃ¤nk -> http://help.github.com/fork-a-repo/
 
-kolla länk -> http://help.github.com/fork-a-repo/
-
-Hur man utför en pull request
-
-das länk -> http://help.github.com/send-pull-requests/
+Hur man utfÃ¶ en pull request
+----------------------------
+das lÃ¤nk -> http://help.github.com/send-pull-requests/
 
 uppdatera det forkade projektet
-
+-------------------------------
+git remote add kimastrom git://github.com/kimastrom/projectX.git
 git fetch upstream
 git merge upstream/master
 
-
-test
+Hantera ditt forkade projekt
+-----------------------------
+git add -A
+git commit -m 'ditt meddelande' <- utfÃ¶r commit, -m = commit meddelande
+git push, skickar upp commiten till ditt forkade projekt.
